@@ -1,0 +1,2 @@
+# DISCLAIMER
+I collected the main data from the official website https://www.narita-airport.jp/en. This included stuff like plane names, flight routes, scheduled times, terminals, category codes, and flight legs. However, for some other info like Total Pax (passengers), Aircraft Capacity, Actual Time, delays, and flight years, I had to create random data myself. That's because this type of data isn't available online since it's not public information.
